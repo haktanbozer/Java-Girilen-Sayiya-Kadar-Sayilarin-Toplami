@@ -1,1 +1,1 @@
-# Java-Girilen-Sayiya-Kadar-Sayilarin-Toplami
+Bu kod ile kullanıcıdan sayı girişi istenir. Ardından girdiği sayıya kadar olduğu tüm sayılar toplanır ve ekranda yazdırılır.
