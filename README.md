@@ -1,0 +1,1 @@
+# Java-Girilen-Sayiya-Kadar-Sayilarin-Toplami
